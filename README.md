@@ -17,4 +17,4 @@ Este projeto faz parte do desafio proposto pela Digital Innovation One (DIO) par
 
 1. **Clone o repositório:**
    ```bash
-   git clone [hgit@github.com:lluismarcello333/Onoarding--POO.git](https://github.com/lluismarcello333/Onoarding--POO.git)
+   git clone https://github.com/lluismarcello333/Onoarding--POO.git
